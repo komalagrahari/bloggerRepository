@@ -1,0 +1,4 @@
+bloggerRepository
+=================
+
+show blogger detail
